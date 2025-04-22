@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793462176850",
+    "project_id": "bursadiskon-e7786",
+    "storage_bucket": "bursadiskon-e7786.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793462176850:android:bfcdd793d05325288c738b",
+        "android_client_info": {
+          "package_name": "com.example.bursa_diskon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwauceJrVQf_rX3Cen0lcH_xwlFrJD2v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
