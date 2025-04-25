@@ -1,4 +1,4 @@
-Project Title: Bursa Diskon - Mobile Programming 
+**Project Title: Bursa Diskon - Mobile Programming **
 
 Role: Mobile App Developer 
 
