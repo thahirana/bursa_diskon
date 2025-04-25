@@ -1,6 +1,7 @@
 Project Title: Bursa Diskon - Mobile Programming 
 
 Role: Mobile App Developer 
+
 Tools: Flutter, and Android Studio.
 
 Institution: Universitas Logistik dan Bisnis Internasional
